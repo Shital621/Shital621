@@ -1,3 +1,5 @@
+![logo](https://github.com/Shital621/Shital621/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shital Bhanudas Sonawane</h1>
 <h3 align="center">Software Developer</h3>
 <img align="right" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W2t9mA49UaEd5n3WQpQxseJKEOkXbbJH96gmFrzodHdI66nRSpYKX9CeEKeiLAr-558&usqp=CAU">
