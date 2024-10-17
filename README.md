@@ -4,7 +4,7 @@
 <h3 align="center">Software Developer</h3>
 <img align="right" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W2t9mA49UaEd5n3WQpQxseJKEOkXbbJH96gmFrzodHdI66nRSpYKX9CeEKeiLAr-558&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
+
 
 - 🌱 I’m currently learning *BCA*
 
